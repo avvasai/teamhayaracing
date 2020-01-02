@@ -17,14 +17,6 @@ body{
     margin: 0 auto;
 }
 
-
-.date{
-    color:#3498bd;
-    text-transform: uppercase;
-    font-weight: bold;
-    letter-spacing: 0.2rem;
-}
-
 .article h2{
     text-align: center;
     color: #493a47;
